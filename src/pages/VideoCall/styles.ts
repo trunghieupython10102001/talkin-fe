@@ -44,9 +44,14 @@ export const useStyles = makeStyles((theme: Theme) => {
         animation: "$show 0.1s ease",
       },
     },
+    shareScreen: {
+      animation: "$show 0.1s ease",
+      width: "100%",
+      padding: "10px",
+    },
     peerPin: {
       animation: "$show 0.1s ease",
-      flex: "2 1 auto",
+      flex: "4 1 auto",
       padding: "10px",
     },
     peerOther: {

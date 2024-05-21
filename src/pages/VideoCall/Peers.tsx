@@ -112,7 +112,7 @@ const Peers: React.FC<IPeers> = ({ drawerOpen = false }) => {
         </div>
       )}
       {isSharingScreen && (
-        <div className={classes.peerPin} ref={peerPin}>
+        <div className={classes.shareScreen} ref={peerPin}>
           <video
             className={classes.videoElement}
             ref={rfVideoShare}
@@ -127,7 +127,7 @@ const Peers: React.FC<IPeers> = ({ drawerOpen = false }) => {
         ref={dish}
         className={classes.listPeer}
         style={{
-          width: drawerOpen ? "calc(100% / 12 * 9)" : "100%",
+          width: drawerOpen ? "calc(100% / 12 * 9)" : "20%",
         }}
       >
         {peerPinId !== me.id && (
