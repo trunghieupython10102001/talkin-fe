@@ -129,7 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# React build file
-build
 # Local Netlify folder
 .netlify
