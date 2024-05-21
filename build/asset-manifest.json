@@ -1,31 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3fef3709.css",
-    "main.js": "/static/js/main.25cd362d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/static/js/main.4afd6d40.js",
+    "static/js/787.bd0a1043.chunk.js": "/static/js/787.bd0a1043.chunk.js",
     "static/media/Inter-ExtraBold.ttf": "/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
     "static/media/Inter-Black.ttf": "/static/media/Inter-Black.143c28420846d45c5834.ttf",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
     "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
-    "static/media/profile_bg.png": "/static/media/profile_bg.82df39b1eea73452ee91.png",
     "static/media/Inter-ExtraLight.ttf": "/static/media/Inter-ExtraLight.1815b9a8a67debdb3966.ttf",
     "static/media/Inter-Thin.ttf": "/static/media/Inter-Thin.f341ca512063c66296d1.ttf",
     "static/media/Inter-Light.ttf": "/static/media/Inter-Light.eec8664621fec98efb37.ttf",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
-    "static/media/galery-layout.png": "/static/media/galery-layout.ccaf54f50257d3cfe9f8.png",
-    "static/media/entertainment.png": "/static/media/entertainment.4f930ac1d3ef6f1beede.png",
-    "static/media/logo-main.svg": "/static/media/logo-main.c2373e7941aceeec9e4d32ccb26da1c2.svg",
-    "static/media/beauty.png": "/static/media/beauty.0c526d72b40a6e6abc9c.png",
-    "static/media/education.png": "/static/media/education.2012dfe22d78c5bb6530.png",
-    "static/media/DIY.png": "/static/media/DIY.208e1d00d7391eea005e.png",
-    "static/media/gaming.png": "/static/media/gaming.e4f6104d8955dc4ad605.png",
-    "static/media/cooking.png": "/static/media/cooking.87882ae14e09d569ee2c.png",
-    "static/media/travel.png": "/static/media/travel.311ec07b5bdf1e8bffc7.png",
-    "static/media/talkshow.png": "/static/media/talkshow.bc8571cd14a4e8263fea.png",
-    "static/media/metamask.png": "/static/media/metamask.39b29230682b68b3718d.png",
-    "static/media/music.png": "/static/media/music.09cc2f0c581aa9ff7205.png",
-    "static/media/wellness.png": "/static/media/wellness.2f03375afc001b177336.png",
+    "static/media/talkin-logo.png": "/static/media/talkin-logo.46fe76736ff35f2f8f26.png",
+    "static/media/profile_bg.png": "/static/media/profile_bg.8ca9bf777868c7d3f325.png",
+    "static/media/galery-layout.png": "/static/media/galery-layout.a049a078c93815c7a5df.png",
     "static/media/network.svg": "/static/media/network.b61b49dccb74d460ba39fcf652c74507.svg",
     "static/media/remove.svg": "/static/media/remove.2ed96fef14fb923476caa6daf5a497db.svg",
     "static/media/remove-schedule.svg": "/static/media/remove-schedule.836083708ac99247e953d5fb04620703.svg",
@@ -43,6 +32,7 @@
     "static/media/microphone-slash-primary.svg": "/static/media/microphone-slash-primary.7909a1e3c0d084b473e022441d2782c2.svg",
     "static/media/microphone-slash.svg": "/static/media/microphone-slash.006f046582396afce24f252c8bcf7cb9.svg",
     "static/media/categories.svg": "/static/media/categories.02e375f2df64784e24bf44e4c1fd3df0.svg",
+    "index.html": "/index.html",
     "static/media/calendar.svg": "/static/media/calendar.a55e29f6538c9ad7056814c4aa2f5d0d.svg",
     "static/media/eye-slash.svg": "/static/media/eye-slash.6d9352e25f7967586d43997a5848b775.svg",
     "static/media/camera.svg": "/static/media/camera.03a301e18484fad005442c7eb155dbd3.svg",
@@ -71,7 +61,6 @@
     "static/media/record-circle.svg": "/static/media/record-circle.fb0286518e16b9af468ca3cac573149b.svg",
     "static/media/female.svg": "/static/media/female.8e0a4d6983c512862dc54cc44bfb86de.svg",
     "static/media/envelope.svg": "/static/media/envelope.4239bcff336858fa156ba4e8aa7a823d.svg",
-    "index.html": "/index.html",
     "static/media/microphone.svg": "/static/media/microphone.a6220969108583c6efd05cc1ea8b817a.svg",
     "static/media/start-recording.svg": "/static/media/start-recording.9806d936158d3f60b45fe0581cbdc1fc.svg",
     "static/media/video.svg": "/static/media/video.8e47bbef19d136e79a811e27fbccb71c.svg",
@@ -96,11 +85,11 @@
     "static/media/close.svg": "/static/media/close.0464166b73bc03d29a3cb2868b1bedfd.svg",
     "static/media/stop-record-white.svg": "/static/media/stop-record-white.fb3ed80f18dbd2458c25e35fa5e46db6.svg",
     "main.3fef3709.css.map": "/static/css/main.3fef3709.css.map",
-    "main.25cd362d.js.map": "/static/js/main.25cd362d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.4afd6d40.js.map": "/static/js/main.4afd6d40.js.map",
+    "787.bd0a1043.chunk.js.map": "/static/js/787.bd0a1043.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fef3709.css",
-    "static/js/main.25cd362d.js"
+    "static/js/main.4afd6d40.js"
   ]
 }
