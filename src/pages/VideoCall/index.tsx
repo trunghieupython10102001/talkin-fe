@@ -215,16 +215,6 @@ const VideoCall: React.FC = () => {
               )}
             </IconButton>
 
-            <IconButton
-              className={classNames(classes.actionRight, {
-                [classes.actionRightActive]: drawer.type === EDrawerType.ACTIVITIES && drawer.isOpen,
-              })}
-              onClick={() => {
-                setDrawer(EDrawerType.ACTIVITIES);
-              }}
-            >
-              <CategoriesIcon />
-            </IconButton>
             <Box component="div" marginRight={2}></Box>
           </Grid>
         </Grid>
