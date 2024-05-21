@@ -1,0 +1,87 @@
+{
+  "name": "talkin-fe",
+  "version": "0.1.0",
+  "packageManager": "yarn@1.22.19",
+  "private": true,
+  "scripts": {
+    "start": "craco start",
+    "dev": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=14",
+    "yarn": ">=1.20"
+  },
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@metamask/detect-provider": "^2.0.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.2",
+    "@mui/styles": "^5.13.2",
+    "@mui/x-date-pickers": "^6.6.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-copy-to-clipboard": "^5.0.4",
+    "@types/react-dom": "^18.0.0",
+    "axios": "^1.4.0",
+    "bowser": "^2.11.0",
+    "classnames": "^2.3.2",
+    "ethers": "^6.7.0",
+    "formik": "^2.2.9",
+    "hark": "^1.2.3",
+    "js-cookie": "^3.0.5",
+    "lodash": "^4.17.21",
+    "mediasoup-client": "^3.6.84",
+    "moment": "^2.29.4",
+    "protoo-client": "^4.0.6",
+    "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-multi-email": "^1.0.9",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.7.3",
+    "socket.io-client": "~4.6.x",
+    "typescript": "^4.4.2",
+    "uuid": "^9.0.0",
+    "web-vitals": "^2.1.0",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/hark": "^1.2.2",
+    "@types/js-cookie": "^3.0.3",
+    "@types/lodash": "^4.14.195",
+    "@types/protoo-client": "^4.0.1",
+    "@types/uuid": "^9.0.1",
+    "autoprefixer": "^10.4.14",
+    "debug": "^4.3.4"
+  }
+}
